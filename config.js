@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Vân Anh ơiii!',
-    introDesc: `chơi trò này với e nèee
-      `,
+    introDesc: `chơi trò này với e nèe',
     btnIntro: 'hihi',
     title: 'Chị trả lời đi nèee 😙',
     desc: 'Chị có thích e honggg ',
@@ -13,5 +12,4 @@ const CONFIG = {
     mess: 'Iu chị nhiềuuu 😘😘',
     messDesc: 'Tối chơi game với e hong.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy}
